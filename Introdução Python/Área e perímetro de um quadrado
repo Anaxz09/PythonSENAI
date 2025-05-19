@@ -1,0 +1,5 @@
+#Área e Perímetro de um quadrado
+num1 = 5
+
+print("O resultado da área é " + str(num1 * num1))
+print("O resultado do perímetro é " + str(num1 + num1 + num1 + num1))

@@ -1,0 +1,9 @@
+#Solicite um numero
+#Solicite outro numero
+#qual deles e maior
+
+num1 = int(input("Digite um número "))
+num2 = int(input("Digite outro número "))
+
+print(num1 > num2)
+

@@ -1,0 +1,14 @@
+#Solicite um numero
+#calcule a idade
+#exibir a mensagem
+
+num1 = int(input("Digite a o ano de nascimento "))
+
+sub = 2025 - num1
+
+if sub > 18:
+    print("Maior de idade")
+    
+else:
+    print("Menor de idade")
+    
